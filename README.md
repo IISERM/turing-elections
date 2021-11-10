@@ -19,7 +19,7 @@ This repo is to hold the materials for the nominations for the 2021/22 club elec
 
 For example,
 
-```md
+```markdown
 # Convener
 
 ## Dhruva Sambrani
