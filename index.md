@@ -8,7 +8,7 @@ Read on to see the nominations for the posts!
 
 # Co-Convener MS19
 ##  Nikhil Bansal
-Hi, I am Nikhil. I am nominating myself for this post because I have certain plans and goals for my club and I would want to make them a reality if given a chance.
+Hi, I am Nikhil, MS19099. I am nominating myself for this post because I have certain plans and goals for my club and I would want to make them a reality if given a chance.
 
 You can find me at [my Github](https://github.com/NB0207)
 
