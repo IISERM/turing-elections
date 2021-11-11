@@ -5,6 +5,8 @@ Welcome to the club elections 2021/22 for Turing Club. Below you will find the n
 Read on to see the nominations for the posts!
 
 # Convener
+## James
+A sentence is too less to encompass a person. You can find me at [my Github](https://github.com/James471)
 
 # Co-Convener MS19
 ##  Nikhil Bansal
