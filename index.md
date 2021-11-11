@@ -14,4 +14,7 @@ You can find me at [my Github](https://github.com/NB0207)
 
 
 # Co-Convener MS20
+##  Ansh Mishra
+Hey, I am Ansh, MS20112. I hereby nominate myself for the post of co-convener for the Turing Club. I am a compititive programmer myself, hence would try to take this club to a level where we can start participating and winning prestigious competitions like GSoC, ACM-ICPC, Google Code Jam, Hash Code, etc. I would spill beans on my futher plans in my manifesto video (which will be uploaded soon).
 
+You can find me on [Github](https://github.com/theanshm) and [Codechef](https://www.codechef.com/users/anshmishra471).
