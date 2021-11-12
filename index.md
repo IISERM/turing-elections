@@ -31,3 +31,6 @@ Hi, I am Sachin (MS20056). As a captain, I had to set up my school's first serio
 
 You can find me at [my Github](https://github.com/sach-iyer)
 
+You can find my manifesto video [here](https://photos.app.goo.gl/bUJxBJQyee2RbueF7)
+
+*Note: At 00:10 I mean "events happening pre-covid" (sounds like pre-code)*
