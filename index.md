@@ -33,9 +33,6 @@ You can find me at [my Github](https://github.com/sach-iyer)
 
 **My manifesto video:**
 
-<video src="./ms20056.mp4" width="320" height="240" controls>
-<source src="./ms20056.mp4" type="video/mp4">
-Your browser does not support the video tag, try to download the video from <a href="./ms20056.mp4">here</a>
-</video>
+You can find my manifesto video [here](https://photos.app.goo.gl/bUJxBJQyee2RbueF7)
 
 *Note: At 00:10 I mean "events happening pre-covid" (sounds like pre-code)*
