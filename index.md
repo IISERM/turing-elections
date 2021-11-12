@@ -22,7 +22,8 @@ Hey, I am Ansh, MS20112. I hereby nominate myself for the post of co-convener fo
 You can find me on [Github](https://github.com/theanshm) and [Codechef](https://www.codechef.com/users/anshmishra471).
 
 ## Arhan Vora
-Hi, I am Arhan, MS20089 (will update with short intro later)...
+Hi, I am Arhan, MS20089.
+I use tabs, not spaces.
 
 You can find me at [my Github](https://github.com/Arhan4101/Fun_Things)
 
