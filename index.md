@@ -24,7 +24,7 @@ Hey, I am Ansh, MS20112. I hereby nominate myself for the post of co-convener fo
 You can find me on [Github](https://github.com/theanshm) and [Codechef](https://www.codechef.com/users/anshmishra471).
 
 **My manifesto video**
-<video src="./ansh.mp4" width="320" height="240" controls>
+<video src="./ansh.mp4" width="320" height="240" controls preload="metadata">
 <source src="./ansh.mp4" type="video/mp4">
 Your browser does not support the video tag, try to download the video from <a href="./ansh.mp4">here</a>
 </video>
@@ -37,7 +37,7 @@ Hi, I am Arhan, MS20089.
 You can find me at [my Github](https://github.com/Arhan4101/Fun_Things)
 
 **My manifesto video**
-<video src="./arha.mp4" width="320" height="240" controls>
+<video src="./arha.mp4" width="320" height="240" controls preload="metadata">
 <source src="./arha.mp4" type="video/mp4">
 Your browser does not support the video tag, try to download the video from <a href="./arha.mp4">here</a>
 </video>
@@ -49,7 +49,7 @@ Hi, I am Sachin (MS20056). As a captain, I had to set up my school's first serio
 You can find me at [my Github](https://github.com/sach-iyer)
 
 **My manifesto video:**
-<video src="./sach.mp4" width="320" height="240" controls>
+<video src="./sach.mp4" width="320" height="240" controls preload="metadata">
 <source src="./sach.mp4" type="video/mp4">
 Your browser does not support the video tag, try to download the video from <a href="./sach.mp4">here</a>
 </video>
