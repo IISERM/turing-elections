@@ -16,16 +16,23 @@ You can find me at [my Github](https://github.com/NB0207)
 
 
 # Co-Convener MS20
+
 ##  Ansh Mishra
-Hey, I am Ansh, MS20112. I hereby nominate myself for the post of co-convener for the Turing Club. I am a compititive programmer myself, hence would try to take this club to a level where we can start participating and winning prestigious competitions like GSoC, ACM-ICPC, Google Code Jam, Hash Code, etc. I have spilled the beans on my futher plans in my manifesto video [here](https://drive.google.com/file/d/1h11qFlSvJWqT_jgz7K3NJRrurhqSsVlM/view?usp=sharing).
+
+Hey, I am Ansh, MS20112. I hereby nominate myself for the post of co-convener for the Turing Club. I am a compititive programmer myself, hence would try to take this club to a level where we can start participating and winning prestigious competitions like GSoC, ACM-ICPC, Google Code Jam, Hash Code, etc. I have spilled the beans on my futher plans in my manifesto video.
+
+<iframe src="https://drive.google.com/file/d/1h11qFlSvJWqT_jgz7K3NJRrurhqSsVlM/preview" width="640" height="480" allow="autoplay"></iframe>
 
 You can find me on [Github](https://github.com/theanshm) and [Codechef](https://www.codechef.com/users/anshmishra471).
 
 ## Arhan Vora
 Hi, I am Arhan, MS20089.
+
 [I use tabs, not spaces.](https://www.youtube.com/watch?v=SsoOG6ZeyUI)
 
 You can find me at [my Github](https://github.com/Arhan4101/Fun_Things)
+
+<iframe src="https://drive.google.com/file/d/11LFvvJg4d6KTWlGsLOWqKFya1uBX2Dmv/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Sachin G Iyer
 Hi, I am Sachin (MS20056). As a captain, I had to set up my school's first serious cricket team without the support of the administration (who gave us a volleyball coach and no practice.) Unfortunately, this is the same skillset I will need for this club.
@@ -34,6 +41,9 @@ You can find me at [my Github](https://github.com/sach-iyer)
 
 **My manifesto video:**
 
-You can find my manifesto video [here](https://photos.app.goo.gl/bUJxBJQyee2RbueF7)
+<video src="https://photos.app.goo.gl/bUJxBJQyee2RbueF7" width="320" height="240" controls>
+<source src="https://photos.app.goo.gl/bUJxBJQyee2RbueF7" type="video/mp4">
+Your browser does not support the video tag, try to download the video from <a href="https://photos.app.goo.gl/bUJxBJQyee2RbueF7">here</a>
+</video>
 
 *Note: At 00:10 I mean "events happening pre-covid" (sounds like pre-code)*
